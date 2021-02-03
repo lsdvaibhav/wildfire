@@ -1,0 +1,16 @@
+aiofiles==0.6.0
+click==7.1.2
+fastapi==0.61.1
+h11==0.11.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pydantic==1.7
+python-multipart==0.0.5
+six==1.15.0
+starlette==0.13.6
+typing-extensions==3.7.4.3
+uvicorn==0.12.2
+Keras==2.1.5
+tensorflow==1.7.0
+numpy==1.20.0
+opencv-python==4.5.1.48
